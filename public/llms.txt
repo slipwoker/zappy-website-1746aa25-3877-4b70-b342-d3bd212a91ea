@@ -1,0 +1,78 @@
+# ALLTUB — Generative Engine Optimization Map
+
+> ALLTUB is a YouTube-focused brand or channel that requires a dedicated website presence. The project centers around video content creation and distribution, with the brand name 'ALLTUB' suggesting a comprehensive or all-inclusive approach to video/tube content.
+
+---
+
+## Pages
+
+### בית
+https://alltub-1746aa25.zappy5.app
+גלה איך לפרסם ערוץ יוטיוב בצורה אפקטיבית שתפוצץ את כמות הצפיות. אנחנו ב-ALLTUB מביאים לך את כל הכלים לפרסום חכם של סרטונים. היכנס עכשיו והתחל לצמוח!
+
+### יקום התוכן
+https://alltub-1746aa25.zappy5.app/content-universe
+צלול ליקום התוכן של ALLTUB ולמד איך לפרסם את סרטון היוטיוב שלי עם אסטרטגיות תוכן מנצחות. הפוך כל סרטון ללהיט ויראלי - בוא לראות איך עושים את זה נכון!
+
+### אודות ALLTUB
+https://alltub-1746aa25.zappy5.app/about
+הכירו את ALLTUB - הצוות שמאחורי השיטות הכי חכמות לפרסם את הסרטון שלך ביוטיוב. אנחנו הופכים יוצרים לכוכבים עם תשוקה וידע. גלו את הסיפור שלנו עוד היום!
+
+### צור קשר
+https://alltub-1746aa25.zappy5.app/contact
+מוכן לפרסם את ערוץ היוטיוב שלי ולהפוך אותו למעצמת תוכן? צור קשר עם ALLTUB עוד היום ונבנה יחד אסטרטגיית פרסום שתכבוש את הרשת. אל תחכה - דבר איתנו!
+
+## Legal & Policy
+
+### Privacy Policy
+https://alltub-1746aa25.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://alltub-1746aa25.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://alltub-1746aa25.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://alltub-1746aa25.zappy5.app/contact
+- Endpoint: https://alltub-1746aa25.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ALLTUB
+ALLTUB is a YouTube-focused brand or channel that requires a dedicated website presence. The project centers around video content creation and distribution, with the brand name 'ALLTUB' suggesting a comprehensive or all-inclusive approach to video/tube content.
+
+## Target Audience
+- חובבי טכנולוגיה
+- יוצרי תוכן דיגיטלי
+- קהילת גיימינג
+
+## Industry
+Video Content / YouTube Channel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://alltub-1746aa25.zappy5.app/sitemap.xml
+- Robots: https://alltub-1746aa25.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://alltub-1746aa25.zappy5.app/llms-full.txt
