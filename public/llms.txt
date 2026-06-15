@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://alltub-1746aa25.zappy5.app
+https://example.com
 גלה איך לפרסם ערוץ יוטיוב בצורה אפקטיבית שתפוצץ את כמות הצפיות. אנחנו ב-ALLTUB מביאים לך את כל הכלים לפרסום חכם של סרטונים. היכנס עכשיו והתחל לצמוח!
 
 ### יקום התוכן
-https://alltub-1746aa25.zappy5.app/content-universe
+https://example.com/content-universe
 צלול ליקום התוכן של ALLTUB ולמד איך לפרסם את סרטון היוטיוב שלי עם אסטרטגיות תוכן מנצחות. הפוך כל סרטון ללהיט ויראלי - בוא לראות איך עושים את זה נכון!
 
 ### אודות ALLTUB
-https://alltub-1746aa25.zappy5.app/about
+https://example.com/about
 הכירו את ALLTUB - הצוות שמאחורי השיטות הכי חכמות לפרסם את הסרטון שלך ביוטיוב. אנחנו הופכים יוצרים לכוכבים עם תשוקה וידע. גלו את הסיפור שלנו עוד היום!
 
 ### צור קשר
-https://alltub-1746aa25.zappy5.app/contact
+https://example.com/contact
 מוכן לפרסם את ערוץ היוטיוב שלי ולהפוך אותו למעצמת תוכן? צור קשר עם ALLTUB עוד היום ונבנה יחד אסטרטגיית פרסום שתכבוש את הרשת. אל תחכה - דבר איתנו!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://alltub-1746aa25.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://alltub-1746aa25.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://alltub-1746aa25.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://alltub-1746aa25.zappy5.app/contact
-- Endpoint: https://alltub-1746aa25.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -73,6 +73,6 @@ Video Content / YouTube Channel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://alltub-1746aa25.zappy5.app/sitemap.xml
-- Robots: https://alltub-1746aa25.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://alltub-1746aa25.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
